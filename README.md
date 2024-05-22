@@ -1,8 +1,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Miguel Marsico</h1>
 
 <a href = "mailto:miguelmarsico2005@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/miguelmarsico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href = "https://www.youtube.com/@miguelmarsico/featured"> <img src="https://img.shields.io/badge/-YouTube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/miguelmarsico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <br>
 
 - 📚 **Data Science** Student at **UNOPAR**
