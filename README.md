@@ -7,9 +7,9 @@
 
 - 📚 Estudante de **Ciência de Dados** na **UNOPAR**
   
-- 🤖 Desenvolvimento de Bots Discord
+- 🤖 Desenvolvimento de **Bots Discord**
 
-- 🤖 Interessado em **IA** e **Aprendizado de máquina**
+- 🌐 Interessado em **IA** e **Aprendizado de máquina**
 
 - 🎮 Me aventurando em **desenvolvimento de jogos**
 
