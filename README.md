@@ -1,4 +1,4 @@
-<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Miguel Marsico</h1>
+<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 <a href = "mailto:miguelmarsico2005@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.youtube.com/@miguelmarsico/featured"> <img src="https://img.shields.io/badge/-YouTube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
