@@ -1,18 +1,20 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Miguel Marsico</h1>
+<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Miguel Marsico</h1>
 
 <a href = "mailto:miguelmarsico2005@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.youtube.com/@miguelmarsico/featured"> <img src="https://img.shields.io/badge/-YouTube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/miguelmarsico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <br>
 
-- 📚 **Data Science** Student at **UNOPAR**
+- 📚 Estudante de **Ciência de Dados** na **UNOPAR**
+  
+- 🤖 Desenvolvimento de Bots Discord
 
-- 🤖 Interested in **AI** and **Machine Learning**
+- 🤖 Interessado em **IA** e **Aprendizado de máquina**
 
-- 🎮 Venturing into **game development**
+- 🎮 Me aventurando em **desenvolvimento de jogos**
 
 
-### **Languages**:
+### **Linguagens**:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
@@ -25,7 +27,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=for-the-badge&logo=numpy&labelColor=0D1117)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&labelColor=0D1117)&nbsp;
 
-### **Studying in this moment**:
+### **Estudando no momento**:
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-0D1117?style=for-the-badge&logo=opencv&labelColor=0D1117)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=arduino&labelColor=0D1117)&nbsp;
