@@ -54,8 +54,6 @@
     </p>
 </div>
 
-<br>
-
 <div>
     <h3 align="center">Contato:</h3>
     <p align="center">
