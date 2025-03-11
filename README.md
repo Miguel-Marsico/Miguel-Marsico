@@ -7,7 +7,7 @@
 
 <div>
     <ul>
-        <li>📚 Estudante de <strong>Ciência de Dados</strong> na <strong>UNOPAR</strong></li>
+        <li>📚 Estudante de <strong>Ciência de Dados</strong></li>
         <li>🤖 Desenvolvimento de <strong>Bots Discord</strong></li>
         <li>🌐 Interessado em <strong>IA</strong> e <strong>Aprendizado de Máquina</strong></li>
         <li>🎮 Me aventurando em <strong>desenvolvimento de jogos</strong></li>
