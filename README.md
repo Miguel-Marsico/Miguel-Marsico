@@ -9,7 +9,6 @@
     <ul>
         <li>👨‍💻 <strong>Cientista de Dados</strong> e <strong>Desenvolvedor Full Stack</strong></li>
         <li>🌍 Interessado em <strong>IA</strong> e <strong>Aprendizado de Máquina</strong></li>
-        <li>🎮 Explorando <strong>desenvolvimento de jogos</strong></li>
     </ul>
 </section>
 
@@ -18,8 +17,7 @@
         <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Marsico&layout=compact&theme=dark&langs_count=6" alt="Top Langs"><br><br>
         <h3 class="visually-hidden">Ferramentas e Tecnologias</h3>
-        <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,wordpress,discord" /><br> 
-        <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,html,css,react,tailwind,flutter,nodejs" /><br> 
-        <img src="https://skillicons.dev/icons?i=expressjs,flask,opencv,selenium,tensorflow,postgresql,vite,figma,git,vercel" />
+        <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,dart,html,css,react,vue,tailwind,nodejs" /><br> 
+        <img src="https://skillicons.dev/icons?i=flutter,expressjs,flask,opencv,selenium,tensorflow,postgresql,vite,figma,git,vercel" />
     </div>
 </section>
