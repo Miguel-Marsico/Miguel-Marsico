@@ -1,22 +1,46 @@
-<div align="left">
-    <h1>
+<h1>
         <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
         Oi, eu sou o Miguel!
-    </h1>
-</div>
+</h1>
+<h3 align="center">Desenvolvedor Full Stack | Java • Spring • C# • Vue.js • </h3>
 
-<section class="profile-info">
-    <ul>
-        <li>👨‍💻 <strong>Desenvolvedor Full Stack</strong> e <strong>Cientista de Dados</strong></li>
-    </ul>
-</section>
+---
 
-<section class="skills-section" align="center">
-    <div  align="center">
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Marsico&layout=compact&theme=dark&langs_count=6" alt="Top Langs"><br><br>
-        <h3 class="visually-hidden">Ferramentas e Tecnologias</h3>
-        <img src="https://skillicons.dev/icons?i=java,spring,python,typescript,javascript,cs,html,css,react,vue,tailwind,nodejs" /><br> 
-        <img src="https://skillicons.dev/icons?i=flutter,dart,expressjs,flask,opencv,selenium,tensorflow,postgresql,mysql,supabase,vite,git" />
-    </div>
-</section>
+### 🚀 Sobre mim  
+💻 Sou **Desenvolvedor Full Stack** com foco em **backend** e estou atualmente me aprimorando em **Java 17** e **Spring Framework**.  
+👨‍💼 Trabalho na **JLTS Consultoria Informática**, no desenvolvimento de um novo projeto com tecnologias como **C#, .NET, Vue.js e Docker**.  
+🚀 Colaboro também com a **startup VouzTec**, contribuindo com **arquitetura de software** e **definição tecnológica**.  
+🎓 Sou **graduado em Ciência de Dados** e certificado como **Desenvolvedor Web Full Stack** pela **CodiAcademy**.  
+🤖 Tenho grande interesse em **Inteligência Artificial, Machine Learning e automação de processos**. 
+
+---
+
+### 🛠️ Tecnologias e Ferramentas  
+
+#### 💬 Linguagens
+<img src="https://skillicons.dev/icons?i=java,cs,python,typescript,javascript,html,css" />
+
+#### ⚙️ Frameworks e Bibliotecas  
+<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,vue,react,flask,tailwind,bootstrap" />
+
+#### 🗄️ Banco de Dados  
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,supabase" />
+
+#### ☁️ Ferramentas e Plataformas  
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-marsico&layout=compact&theme=radical"/>
+
+### 🌱 O que estou estudando agora  
+- 🔸 Java 17 e Spring Framework  
+- 🔸 Microsserviços e arquitetura limpa  
+- 🔸 Boas práticas de DevOps com Docker e AWS  
+
+---
+
+### 📫 Contato  
+
+📧 **E-mail:** [miguelmarsico@gmail.com](mailto:miguelmarsico2005@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/miguelmarsico](https://www.linkedin.com/in/miguelmarsico).
+
+
