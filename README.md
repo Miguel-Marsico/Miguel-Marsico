@@ -40,7 +40,7 @@
 
 ### 📫 Contato  
 
-📧 **E-mail:** [miguelmarsico@gmail.com](mailto:miguelmarsico2005@gmail.com)  
+📧 **E-mail:** [miguelmarsico2005@gmail.com](mailto:miguelmarsico2005@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/miguelmarsico](https://www.linkedin.com/in/miguelmarsico).
 
 
