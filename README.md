@@ -27,7 +27,7 @@
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,supabase" />
 
 #### ☁️ Ferramentas e Plataformas  
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,rabbitmq,aws,gcp,git,github" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-marsico&layout=compact&theme=radical"/>
 
