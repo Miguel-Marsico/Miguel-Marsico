@@ -2,7 +2,7 @@
         <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
         Oi, eu sou o Miguel!
 </h1>
-<h3 align="center">Desenvolvedor Full Stack | Java • Spring • C# • Vue.js • </h3>
+<h3 align="center">Desenvolvedor Full Stack | Java • Spring • C# • Vue.js • Node.js</h3>
 
 ---
 
