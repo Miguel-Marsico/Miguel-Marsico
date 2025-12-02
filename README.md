@@ -41,6 +41,6 @@
 ### 📫 Contato  
 
 📧 **E-mail:** [miguelmarsico2005@gmail.com](mailto:miguelmarsico2005@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/miguelmarsico](https://www.linkedin.com/in/miguelmarsico).
+💼 **LinkedIn:** [linkedin.com/in/miguelmarsico](https://www.linkedin.com/in/miguelmarsico)
 
 
