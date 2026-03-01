@@ -8,7 +8,6 @@
 
 ### 🚀 Sobre mim  
 💻 Sou **Desenvolvedor Full Stack** com foco em **backend** e estou atualmente me aprimorando em **Java 17** e **Spring Framework**.  
-🚀 Colaboro também com a **startup VouzTec**, contribuindo com **arquitetura de software** e **definição tecnológica**.  
 🎓 Sou **graduado em Ciência de Dados** e certificado como **Desenvolvedor Web Full Stack** pela **CodiAcademy**.  
 🤖 Tenho grande interesse em **Inteligência Artificial, Machine Learning e automação de processos**. 
 
