@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=java,cs,python,typescript,javascript,html,css" />
 
 #### ⚙️ Frameworks e Bibliotecas  
-<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,vue,react,flask,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,angular,vue,react,flask,tailwind,bootstrap" />
 
 #### 🗄️ Banco de Dados  
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,supabase" />
