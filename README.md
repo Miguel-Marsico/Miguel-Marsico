@@ -27,8 +27,6 @@
 #### ☁️ Ferramentas e Plataformas  
 <img src="https://skillicons.dev/icons?i=docker,rabbitmq,aws,gcp,git" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-marsico&layout=compact&theme=radical"/>
-
 ### 🌱 O que estou estudando agora  
 - 🔸 Java 17 e Spring Framework  
 - 🔸 Microsserviços e arquitetura limpa  
