@@ -1,25 +1,29 @@
-<h1>
+<h1 align="center">
         <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
         Oi, eu sou o Miguel!
 </h1>
-<h3 align="center">Desenvolvedor Full Stack | Java • Spring • C# • Vue.js • Node.js</h3>
+
+<h3 align="center">Desenvolvedor Full Stack | Java • Angular</h3>
 
 ---
 
-### 🚀 Sobre mim  
-💻 Sou **Desenvolvedor Full Stack** com foco em **backend** e estou atualmente me aprimorando em **Java 17** e **Spring Framework**.  
-🎓 Sou **graduado em Ciência de Dados** e certificado como **Desenvolvedor Web Full Stack** pela **CodiAcademy**.  
+### 🚀 Sobre mim
+
+💻 Sou **Desenvolvedor Full Stack**, formado em **Ciência de Dados** e em **Desenvolvimento Web Full Stack**.
+
+🏢 Atuo profissionalmente na **migração e otimização de sistemas legados**, garantindo a integridade dos processos e melhorando a eficiência operacional.
+
 🤖 Tenho grande interesse em **Inteligência Artificial, Machine Learning e automação de processos**. 
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas  
+### 🛠️ Tecnologias e Ferramentas
 
-#### 💬 Linguagens
-<img src="https://skillicons.dev/icons?i=java,cs,python,typescript,javascript,html,css" />
+#### 💬 Backend
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,typescript,javascript,python" />
 
-#### ⚙️ Frameworks e Bibliotecas  
-<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,angular,vue,react,flask,tailwind,bootstrap" />
+#### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=angular,react,vue,html,css" />
 
 #### 🗄️ Banco de Dados  
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,supabase" />
@@ -27,16 +31,24 @@
 #### ☁️ Ferramentas e Plataformas  
 <img src="https://skillicons.dev/icons?i=docker,rabbitmq,aws,gcp,git" />
 
-### 🌱 O que estou estudando agora  
-- 🔸 Java 17 e Spring Framework  
-- 🔸 Microsserviços e arquitetura limpa  
-- 🔸 Boas práticas de DevOps com Docker e AWS  
+---
+
+### 🎓 Formação
+
+- 🎓 Tecnólogo em **Ciência de Dados**
+- 💻 **Desenvolvimento Web Full Stack** — Codi Academy
 
 ---
 
-### 📫 Contato  
+### 🌱 O que estou estudando agora
 
-📧 **E-mail:** [miguelmarsico2005@gmail.com](mailto:miguelmarsico2005@gmail.com)  
+- 🔸 Quarkus
+- 🔸 Microsserviços e arquitetura limpa
+- 🔸 Boas práticas de DevOps com Docker
+
+---
+
+### 📫 Contato
+
+📧 **E-mail:** [miguelmarsico2005@gmail.com](mailto:miguelmarsico2005@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/miguelmarsico](https://www.linkedin.com/in/miguelmarsico)
-
-
